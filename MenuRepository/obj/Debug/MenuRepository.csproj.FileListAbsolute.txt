@@ -1,0 +1,6 @@
+C:\Users\qinn\source\repos\KomodoCafe2\MenuRepository\bin\Debug\MenuRepository.dll
+C:\Users\qinn\source\repos\KomodoCafe2\MenuRepository\bin\Debug\MenuRepository.pdb
+C:\Users\qinn\source\repos\KomodoCafe2\MenuRepository\obj\Debug\MenuRepository.csproj.AssemblyReference.cache
+C:\Users\qinn\source\repos\KomodoCafe2\MenuRepository\obj\Debug\MenuRepository.csproj.CoreCompileInputs.cache
+C:\Users\qinn\source\repos\KomodoCafe2\MenuRepository\obj\Debug\MenuRepository.dll
+C:\Users\qinn\source\repos\KomodoCafe2\MenuRepository\obj\Debug\MenuRepository.pdb

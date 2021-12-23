@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace KomodoCafe2
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
+            ProgramUI ui = new ProgramUI();
+            ui.Run();
         }
     }
 }

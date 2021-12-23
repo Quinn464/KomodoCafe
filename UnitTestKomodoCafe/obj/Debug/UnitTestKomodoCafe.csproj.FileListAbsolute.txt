@@ -1,0 +1,17 @@
+C:\Users\qinn\source\repos\KomodoCafe2\UnitTestKomodoCafe\obj\Debug\UnitTestKomodoCafe.csproj.AssemblyReference.cache
+C:\Users\qinn\source\repos\KomodoCafe2\UnitTestKomodoCafe\obj\Debug\UnitTestKomodoCafe.csproj.CoreCompileInputs.cache
+C:\Users\qinn\source\repos\KomodoCafe2\UnitTestKomodoCafe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\qinn\source\repos\KomodoCafe2\UnitTestKomodoCafe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\qinn\source\repos\KomodoCafe2\UnitTestKomodoCafe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\qinn\source\repos\KomodoCafe2\UnitTestKomodoCafe\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\qinn\source\repos\KomodoCafe2\UnitTestKomodoCafe\bin\Debug\UnitTestKomodoCafe.dll
+C:\Users\qinn\source\repos\KomodoCafe2\UnitTestKomodoCafe\bin\Debug\UnitTestKomodoCafe.pdb
+C:\Users\qinn\source\repos\KomodoCafe2\UnitTestKomodoCafe\bin\Debug\MenuRepository.dll
+C:\Users\qinn\source\repos\KomodoCafe2\UnitTestKomodoCafe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\qinn\source\repos\KomodoCafe2\UnitTestKomodoCafe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\qinn\source\repos\KomodoCafe2\UnitTestKomodoCafe\bin\Debug\MenuRepository.pdb
+C:\Users\qinn\source\repos\KomodoCafe2\UnitTestKomodoCafe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\qinn\source\repos\KomodoCafe2\UnitTestKomodoCafe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\qinn\source\repos\KomodoCafe2\UnitTestKomodoCafe\obj\Debug\UnitTestKomodoCafe.csproj.CopyComplete
+C:\Users\qinn\source\repos\KomodoCafe2\UnitTestKomodoCafe\obj\Debug\UnitTestKomodoCafe.dll
+C:\Users\qinn\source\repos\KomodoCafe2\UnitTestKomodoCafe\obj\Debug\UnitTestKomodoCafe.pdb
