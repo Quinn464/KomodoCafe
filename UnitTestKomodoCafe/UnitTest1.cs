@@ -88,9 +88,9 @@ namespace UnitTestKomodoCafe
             //Arrange
             MenuItem_Repo menu = new MenuItem_Repo();
             MenuItem item = new MenuItem(01,
-                "Burger and Fries",
-                "Our delicious all beef burger and a medium fry",
-                "Bun, Burger, Pickles, Onion, Lettuce, Tomato, Fries",
+                 "Crispy Chicken Sandwich Combo Meal",
+                "Crispy Chicken Sandwich, Sprite (Medium), Medium French Fries 990 Cal.",
+                "Crispy Chicken Fillet, Potato Roll, Crinkle Cut Pickle, Salted Butter",
                 8);
             menu.AddMenuItem(item);
             int mealNum = 01;
